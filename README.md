@@ -4,8 +4,7 @@ Heyy 👋 My name is Aditya Arya
 Machine Learning and Artificial Intelligence enthusiast
 --------------------
 
-Hello, I love building web applications with modern design. I have been into coding from last 3 years, have strong grasp in programming and problem solving.
-Let's convert an idea into code!!
+Hello, I love writing scripts that use the power of machine learning on data. I have been into coding from last 6 years, have strong grasp in programming and problem solving.
 
 * 🌍  I'm based in Jaipur
 * 🖥️  See my projects at [AdArya125/Projects](https://github.com/AdArya125/Projects)
@@ -23,3 +22,10 @@ Let's convert an idea into code!!
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/Matplotlib.svg" width="36" height="36" alt="Matplotlib" style="margin-right: 10px;" /></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/scikit-learn.svg" width="36" height="36" alt="scikit-learn" style="margin-right: 10px;" /></a>
 </div>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AdArya125" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adarya125/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
