@@ -23,8 +23,3 @@ Let's convert an idea into code!!
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/Matplotlib.svg" width="36" height="36" alt="Matplotlib" style="margin-right: 10px;" /></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/scikit-learn.svg" width="36" height="36" alt="scikit-learn" style="margin-right: 10px;" /></a>
 </div>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/Pandas.png" width="36" height="36" alt="Pandas" style="margin-right: 10px;" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/NumPy.svg" width="36" height="36" alt="NumPy" style="margin-right: 10px;" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/Matplotlib.svg" width="36" height="36" alt="Matplotlib" style="margin-right: 10px;" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AdArya125/AdArya125/blob/main/scikit-learn.svg" width="36" height="36" alt="scikit-learn" style="margin-right: 10px;" /></a>
